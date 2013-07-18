@@ -1,0 +1,20 @@
+Changes
+Daemon.pm
+Makefile.PL
+MANIFEST
+README
+Daemon/Scoreboard.pm
+Daemon/ScoreboardSemaphore.pm
+eg/forking
+eg/forking-flow.dot
+eg/forking-flow.png
+eg/preforking
+eg/preforking-flow.dot
+eg/preforking-flow.png
+t/00_syntax.t
+t/10_scoreboard.t
+t/11_daemon.t
+t/20_preforking.t
+t/30_forking.t
+t/Test.pm
+META.yml                                 Module meta-data (added by MakeMaker)
