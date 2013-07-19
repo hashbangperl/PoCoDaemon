@@ -3,8 +3,8 @@ Daemon.pm
 Makefile.PL
 MANIFEST
 README
-Daemon/Scoreboard.pm
-Daemon/ScoreboardSemaphore.pm
+lib/POE/Component/Daemon/Scoreboard.pm
+lib/POE/Component/Daemon/ScoreboardSemaphore.pm
 eg/forking
 eg/forking-flow.dot
 eg/forking-flow.png
