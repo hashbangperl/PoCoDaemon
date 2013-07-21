@@ -1,8 +1,8 @@
 Changes
-Daemon.pm
 Makefile.PL
 MANIFEST
 README
+lib/POE/Component/Daemon.pm
 lib/POE/Component/Daemon/Scoreboard.pm
 lib/POE/Component/Daemon/ScoreboardSemaphore.pm
 eg/forking
